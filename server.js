@@ -4,7 +4,7 @@ const app = express();
 const server = require('http').Server(app);
 
 app.get('/', (req, res) => {
-    res.status(200).write("Hay hay")
+    res.status(200).send("Hay hay")
 })
 
 
