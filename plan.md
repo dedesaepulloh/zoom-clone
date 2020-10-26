@@ -7,5 +7,5 @@
 - add ability to allow others to stream their video --> DONE
 - add styling --> DONE
 - add the ability to create messages --> DONE
-- add mute button
+- add mute button --> DONE
 - add stop video button
