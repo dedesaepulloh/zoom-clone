@@ -8,4 +8,5 @@
 - add styling --> DONE
 - add the ability to create messages --> DONE
 - add mute button --> DONE
-- add stop video button
+- add stop video button --> DONE
+- deploy
