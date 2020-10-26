@@ -6,6 +6,6 @@
 - Add the ability to view our own video --> DONE
 - add ability to allow others to stream their video --> DONE
 - add styling --> DONE
-- add the ability to create messages
+- add the ability to create messages --> DONE
 - add mute button
 - add stop video button
